@@ -1,5 +1,3 @@
-s-001,OK
-s-002,OVER LIMIT
-s-003,OK
-s-004,WARNING
-s-005,OVER LIMIT
+R-001, Ok
+R-002, Over Limit
+R-003, Ok
